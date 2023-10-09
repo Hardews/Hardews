@@ -5,6 +5,10 @@ Welcome to my space.
 - 📕 Currently striving to learn algorithms and review interview question
 - 💪 Sharing daily learning life
 
+And
+- email: hardews@qq.com
+- blog: hardews.cn
+
 ### My Coding Time For This Week
 <!--START_SECTION:waka-->
 
