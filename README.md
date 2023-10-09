@@ -1,4 +1,13 @@
 ### Hi there 👋
+Welcome to my space.
+
+- 👨‍🦲 A Go backend developer
+- 📕 Currently striving to learn algorithms and review interview question
+- 💪 Sharing daily learning life
+
+### Lastest BLog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **Hardews/Hardews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
