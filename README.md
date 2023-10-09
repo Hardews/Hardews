@@ -7,7 +7,7 @@ Welcome to my space.
 
 And
 - email: hardews@qq.com
-- blog: hardews.cn
+- blog: [hardews.cn](hardews.cn)
 
 ### My Coding Time For This Week
 <!--START_SECTION:waka-->
