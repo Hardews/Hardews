@@ -5,6 +5,10 @@ Welcome to my space.
 - 📕 Currently striving to learn algorithms and review interview question
 - 💪 Sharing daily learning life
 
+### My Coding Time For This Week
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Lastest BLog Posts
 <!-- BLOG-POST-LIST:START -->
 - [常见面试题汇总](https://hardews.cn/interview-sum)
