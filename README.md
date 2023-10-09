@@ -7,6 +7,15 @@ Welcome to my space.
 
 ### My Coding Time For This Week
 <!--START_SECTION:waka-->
+
+```txt
+Go           3 hrs 52 mins   █████████████████████▒░░░   84.74 %
+JavaScript   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Lastest BLog Posts
