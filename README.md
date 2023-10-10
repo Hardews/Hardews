@@ -24,11 +24,11 @@ Shell Script     17 mins         █▒░░░░░░░░░░░░░�
 
 ### Lastest BLog Posts
 <!-- BLOG-POST-LIST:START -->
-- [常见面试题汇总](https://hardews.cn/interview-sum)
-- [LeetCode 周赛总结](https://hardews.cn/leetcode-weekly)
-- [LeetCode 每日一题](https://hardews.cn/leetcode-daily)
-- [从记忆化搜索 -&gt; 递推](https://hardews.cn/dynamic-programming-1)
-- [回溯](https://hardews.cn/backtracking)
+- [新开了文档页面！！](https://hardews.cn/docs-introduction)
+- [加密算法浅析](https://hardews.cn/encryption-algorithm)
+- [rand 解析](https://hardews.cn/2023_go-rand)
+- [浅析 WaitGroup](https://hardews.cn/go-waitgroup)
+- [牛肉拌面的建站总结](https://hardews.cn/website-set)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
