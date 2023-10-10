@@ -1,8 +1,8 @@
 ### Hi there 👋
 Welcome to my space.
 
-- 👨‍🦲 A Go backend developer
-- 📕 Currently striving to learn algorithms and review interview question
+- 👨‍🦲 A Go backend developer. 
+- 📕 Currently striving to learn algorithms and interesting knowledge
 - 💪 Sharing daily learning life
 
 And
