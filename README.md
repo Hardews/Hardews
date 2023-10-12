@@ -24,11 +24,11 @@ JSON             36 mins         ██▒░░░░░░░░░░░░�
 
 ### Lastest BLog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Mutex 原理及实现](https://hardews.cn/golang-mutex)
 - [新开了文档页面！！](https://hardews.cn/docs-introduction)
 - [加密算法浅析](https://hardews.cn/encryption-algorithm)
 - [rand 解析](https://hardews.cn/2023_go-rand)
 - [浅析 WaitGroup](https://hardews.cn/go-waitgroup)
-- [牛肉拌面的建站总结](https://hardews.cn/website-set)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
