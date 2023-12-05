@@ -24,11 +24,11 @@ SQL          9 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Lastest BLog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang 常用的数据结构与方法](https://hardews.cn/blog/2023/11/28/2023/_Golang 常用数据结构与方法)
 - [Golang context 使用及解析](https://hardews.cn/blog/golang-context)
 - [go channel 使用及实现](https://hardews.cn/blog/go-channel)
 - [一致性哈希算法简单介绍](https://hardews.cn/blog/consistent-hash)
 - [Golang sync.Map 探讨](https://hardews.cn/blog/golang-sync-map)
-- [Golang sema](https://hardews.cn/blog/golang-sema)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
