@@ -21,11 +21,11 @@ Shell Script   0 secs          ░░░░░░░░░░░░░░░░�
 
 ### Lastest BLog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Golang 常用的数据结构与方法](https://hardews.cn/blog/2023/11/28/2023/_Golang 常用数据结构与方法)
+- [MIT 6.5840&lpar;原 6.824&rpar; lab1](https://hardews.cn/blog/mit6.5840-lab1)
+- [Golang 常用数据结构与方法](https://hardews.cn/blog/golang-data-structures-and-methods)
 - [Golang context 使用及解析](https://hardews.cn/blog/golang-context)
 - [go channel 使用及实现](https://hardews.cn/blog/go-channel)
 - [一致性哈希算法简单介绍](https://hardews.cn/blog/consistent-hash)
-- [Golang sync.Map 探讨](https://hardews.cn/blog/golang-sync-map)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
