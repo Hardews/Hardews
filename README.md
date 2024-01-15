@@ -13,8 +13,7 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-Go             4 mins          █████████████████████████   99.94 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+YAML   19 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
