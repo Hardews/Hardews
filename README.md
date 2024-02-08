@@ -22,15 +22,6 @@ CSS            2 mins          ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Lastest BLog Posts
-<!-- BLOG-POST-LIST:START -->
-- [MIT 6.5840&lpar;原 6.824&rpar; lab1](https://hardews.cn/blog/mit6.5840-lab1)
-- [Golang 常用数据结构与方法](https://hardews.cn/blog/golang-data-structures-and-methods)
-- [Golang context 使用及解析](https://hardews.cn/blog/golang-context)
-- [go channel 使用及实现](https://hardews.cn/blog/go-channel)
-- [一致性哈希算法简单介绍](https://hardews.cn/blog/consistent-hash)
-<!-- BLOG-POST-LIST:END -->
-
 <!--
 **Hardews/Hardews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
