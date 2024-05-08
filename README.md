@@ -13,9 +13,7 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-Go       2 hrs 57 mins   █████████████████████████   99.87 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
