@@ -13,11 +13,7 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-Go                2 hrs 21 mins   ████████████████████████░   95.66 %
-protobuf          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-YAML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
