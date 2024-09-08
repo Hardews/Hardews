@@ -13,7 +13,11 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                1 hr 35 mins    ████████████████████████▒   97.79 %
+Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
