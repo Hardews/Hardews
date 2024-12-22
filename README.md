@@ -13,7 +13,10 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                28 mins         █████████████████████▒░░░   85.99 %
+Protocol Buffer   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+protobuf          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
