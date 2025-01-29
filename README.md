@@ -13,11 +13,7 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-Java             6 hrs 47 mins   ███████████████▓░░░░░░░░░   62.16 %
-JavaScript       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-YAML             47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-XML              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Vue.js           32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
