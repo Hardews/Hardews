@@ -13,7 +13,11 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go            5 hrs 55 mins   █████████████████████▒░░░   85.00 %
+Vue.js        36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+JavaScript    23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
