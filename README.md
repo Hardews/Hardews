@@ -13,7 +13,11 @@ And
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       7 hrs 51 mins   ██████████████░░░░░░░░░░░   56.28 %
+Go           4 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+JavaScript   1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+SQL          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
